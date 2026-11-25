@@ -8,3 +8,6 @@ Paid roster, automatic bib assignment, manual chip mapping, duplicate validation
 
 ## V0.8
 Roster-linked timing, split validation, XLSX Result/Split, publication, detailed pace and category/gender/age ranks. Age groups use decade bands and chip-time ranking; custom distances inferred from common codes only. Legacy import remains.
+
+## V0.9
+Per-event certificate background URL, title, color and field coordinates, preview, browser print/save PDF and QR link to local demo verification. Certificate is not a signed or authoritative document. QR library loaded from CDN. Tests: syntax, coordinate validation, certificate rendering.
