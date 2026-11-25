@@ -5,3 +5,6 @@ Product SKU/variant stock, included items, optional purchases, order shipping an
 
 ## V0.7
 Paid roster, automatic bib assignment, manual chip mapping, duplicate validation, XLSX roundtrip interface, registration export fields. Tests: syntax, auto numbering and duplicate rejection.
+
+## V0.8
+Roster-linked timing, split validation, XLSX Result/Split, publication, detailed pace and category/gender/age ranks. Age groups use decade bands and chip-time ranking; custom distances inferred from common codes only. Legacy import remains.
