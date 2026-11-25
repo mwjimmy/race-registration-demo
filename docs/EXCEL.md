@@ -1,0 +1,3 @@
+# Excel exchange V1
+
+Native XLSX via pinned ExcelJS 4.4.0 CDN. The browser must be able to load this dependency. No uploaded workbook is sent to a server. Event, Category and RegistrationField sheets form the event template; Result and Members have separate templates. README identifies type/version. Text cells preserve IDs and phone numbers. Formulas are rejected. Only local demo data; no real personal information. Existing CSV functions remain. Imports replace the listed event configuration and its category set, not unrelated events; field-only imports patch specified field modes; results upsert by event and bib. Preview before confirming. Max 1 MB XLSX and 2,000 rows per sheet (100 members). Browser XLSX round-trip testing still required.
