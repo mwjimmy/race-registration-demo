@@ -14,3 +14,6 @@ Per-event certificate background URL, title, color and field coordinates, previe
 
 ## V0.9.1
 Local role preview (owner/editor/viewer), full order-code lookup, certificate issue/reissue/revoke and token verification simulation. No real authentication, database or payment. Tests: syntax, token lifecycle and viewer write denial.
+
+## V0.9.2
+Dashboard totals and category capacity, owner-only fictional staff creation, Chinese role labels. Local simulation only.
