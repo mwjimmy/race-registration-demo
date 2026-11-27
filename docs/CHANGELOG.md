@@ -20,3 +20,5 @@ Dashboard totals and category capacity, owner-only fictional staff creation, Chi
 
 ## V0.9.3
 Order search/status and pending cancellation simulation; cancelled orders release quota/stock. Existing group, bib and timing XLSX retained as demo references for formal backend.
+
+V0.9.3 release: cache-busted local scripts, cancellation/viewer regression test in private CI. Public remains fictional and local.
