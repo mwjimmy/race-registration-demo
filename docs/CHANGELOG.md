@@ -11,3 +11,6 @@ Roster-linked timing, split validation, XLSX Result/Split, publication, detailed
 
 ## V0.9
 Per-event certificate background URL, title, color and field coordinates, preview, browser print/save PDF and QR link to local demo verification. Certificate is not a signed or authoritative document. QR library loaded from CDN. Tests: syntax, coordinate validation, certificate rendering.
+
+## V0.9.1
+Local role preview (owner/editor/viewer), full order-code lookup, certificate issue/reissue/revoke and token verification simulation. No real authentication, database or payment. Tests: syntax, token lifecycle and viewer write denial.

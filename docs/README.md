@@ -1,3 +1,3 @@
-# GitHub Pages Demo
+# GitHub Pages Demo V0.9.1
 
-Settings → Pages → Deploy from a branch → main /docs → Save. Private repositories require an eligible GitHub plan. The site is a static demonstration, not a real registration service. All data is stored in browser localStorage. Do not enter actual personal data or transfer money. CSV templates work with Excel; native XLSX and backend PDF generation are not implemented. Certificates use browser print/save PDF.
+Private docs/ is the source of truth. Public repository contains static demo only. LocalStorage holds fictional data; no real authentication, tenant isolation, payments or certificate verification. XLSX uses ExcelJS. PDF uses browser print. Role switching and random certificate token lifecycle are local simulations. Do not enter real personal data.
