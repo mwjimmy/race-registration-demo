@@ -17,3 +17,6 @@ Local role preview (owner/editor/viewer), full order-code lookup, certificate is
 
 ## V0.9.2
 Dashboard totals and category capacity, owner-only fictional staff creation, Chinese role labels. Local simulation only.
+
+## V0.9.3
+Order search/status and pending cancellation simulation; cancelled orders release quota/stock. Existing group, bib and timing XLSX retained as demo references for formal backend.
